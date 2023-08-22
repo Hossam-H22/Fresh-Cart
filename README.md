@@ -67,21 +67,21 @@ https://documenter.getpostman.com/view/5709532/2s93JqTRWN
 
 To get started with the Fresh Cart frontend project, follow these steps:
 
-1. Clone the Repository: Clone this repository to your local machine using the following command:
+1. <strong>Clone the Repository:</strong> Clone this repository to your local machine using the following command:
 ```bash
   git clone https://github.com/Dragon-H22/Fresh-Cart.git
 ```
 
-2. Install Dependencies: Navigate to the project directory and install the required dependencies using your preferred package manager:
+2. <strong>Install Dependencies:</strong> Navigate to the project directory and install the required dependencies using your preferred package manager:
 ```bash
   cd Fresh-Cart
   npm run getpackages
 ```
-3. Run the Application: Start the development server to run the application locally:
+3. <strong>Run the Application:</strong> Start the development server to run the application locally:
 ```bash
   npm start
 ```
-4. Access the Application: Open your web browser and visit `http://localhost:3000` to see the Fresh Cart frontend in action.
+4. <strong>Access the Application:</strong> Open your web browser and visit `http://localhost:3000` to see the Fresh Cart frontend in action.
 
 
 
