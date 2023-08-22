@@ -100,11 +100,23 @@ I'm excited to hear your <u><a href="https://forms.gle/38PiwB5dUTHNTPAS6" target
 
 ## Sample Photos 
 
+#### Register Page
+![register](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/7dc4fde9-50b8-42a3-9329-81e90e83e4e3)
 
-<br>
-
-#### Home
+#### Home Page
 ![Home](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/fe7a8318-4ea8-42fb-8bc0-88b6c7987264)
+
+#### Products Page
+![products](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/dd2625be-f59f-465b-92a2-92da85b6a26b)
+
+#### Cart Page
+![cart](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/ae01568a-7700-491b-80aa-d7e0ece8b7d8)
+
+#### Product Page
+![product](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/8e8b8d03-de6e-4bc4-9678-6fe974a925b0)
+
+#### Orders Page
+![Orders](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/c9c6a10d-f811-4e90-ac1c-d25dcbe57772)
 
 
 
