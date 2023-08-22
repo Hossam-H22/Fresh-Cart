@@ -1,5 +1,7 @@
 # Fresh Cart
 
+![fresh cart-logo](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/b249458d-ae9f-4764-859c-0cbbadbc5707)
+
 
 ## Description
 Welcome to the Fresh Cart E-commerce Frontend Project! This repository contains the frontend codebase for an innovative and user-friendly online shopping platform called Fresh Cart. With a focus on simplicity, efficiency, and an exceptional user experience, Fresh Cart aims to revolutionize the way users shop for their favorite products.
