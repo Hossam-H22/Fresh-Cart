@@ -103,4 +103,8 @@ I'm excited to hear your <u><a href="https://forms.gle/38PiwB5dUTHNTPAS6" target
 
 <br>
 
+#### Home
+![Home](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/fe7a8318-4ea8-42fb-8bc0-88b6c7987264)
+
+
 
