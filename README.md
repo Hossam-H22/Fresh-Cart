@@ -55,29 +55,34 @@ It is a React JS-powered project that allows users to shop for products in an in
 
 ## API Reference
 ``` 
-
+https://documenter.getpostman.com/view/5709532/2s93JqTRWN
 ```
 
-
-``` 
-
-```
 
 
 <br>
 
 
-## Installation
+## Getting Started
 
-after downloading the repository, run this command to install packages
+To get started with the Fresh Cart frontend project, follow these steps:
 
+1. Clone the Repository: Clone this repository to your local machine using the following command:
 ```bash
+  git clone https://github.com/Dragon-H22/Fresh-Cart.git
+```
+
+2. Install Dependencies: Navigate to the project directory and install the required dependencies using your preferred package manager:
+```bash
+  cd Fresh-Cart
   npm run getpackages
 ```
-or 
+3. Run the Application: Start the development server to run the application locally:
 ```bash
-  npm install --legacy-peer-deps
+  npm start
 ```
+4. Access the Application: Open your web browser and visit `http://localhost:3000` to see the Fresh Cart frontend in action.
+
 
 
 <br>
