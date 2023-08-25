@@ -14,13 +14,38 @@ export default function AllOrders() {
     let { getLoggedUserOrders } = useContext(cartContext);
 
     const [isLoading, setIsLoading] = useState(false);
-    const [ordersList, setOrdersList] = useState(null)
+    const [ordersList, setOrdersList] = useState(null);
+    const [cartIsLoading, setCartIsLoading] = useState(false);
+
+    let { getLoggedUserCart,
+        setNumOfCartItems,
+        setCartId } = useContext(cartContext);
 
     let navigate = useNavigate();
     function getOut() {
         localStorage.removeItem('userToken');
         navigate('/');
     }
+
+    async function getCartInfo() {
+        // setCartIsLoading(true);
+        let res = await getLoggedUserCart();
+        if (res?.data?.status === 'success') {
+            setNumOfCartItems(res?.data?.numOfCartItems);
+            setCartId(res?.data?.data?._id);
+        }
+        else {
+            if (res?.response?.data?.message === 'Expired Token. please login again' || res?.request?.statusText === 'Unauthorized') {
+                getOut();
+            }
+            else {
+                setNumOfCartItems(0);
+                setCartId(null);
+            }
+        }
+        // setCartIsLoading(false);
+    }
+
 
     async function getOrders(userId) {
         setIsLoading(true);
@@ -36,6 +61,7 @@ export default function AllOrders() {
     }
 
     useEffect(() => {
+        getCartInfo();
         getOrders(jwtDecode(localStorage.getItem('userToken')).id);
     }, []);
 
