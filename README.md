@@ -3,9 +3,9 @@
 ![fresh cart-logo](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/fa13511e-04b7-43aa-a2af-51dff8ee991a)
 
 
-## Description
+
 Welcome to the Fresh Cart E-commerce Frontend Project! This repository contains the frontend codebase for an innovative and user-friendly online shopping platform called Fresh Cart. With a focus on simplicity, efficiency, and an exceptional user experience, Fresh Cart aims to revolutionize the way users shop for their favorite products.
-It is a React JS-powered project that allows users to shop for products in an intuitive and user-friendly interface. The project harnesses the power of Context API for efficient state management, enabling users to browse through the home page, filter by categories, search for products, add items to the cart, and more - all in real time.
+It is a React JS-powered project that allows users to shop for products in an intuitive and user-friendly interface. The project harnesses the power of Context API for efficient state management, enabling users to browse through the home page, filter by categories, search for products, add items to the cart, and more - all in real-time.
 
 <!--
  *<a href="https://fresh-cart-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
