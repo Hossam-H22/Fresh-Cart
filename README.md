@@ -5,9 +5,11 @@
 
 ## Description
 Welcome to the Fresh Cart E-commerce Frontend Project! This repository contains the frontend codebase for an innovative and user-friendly online shopping platform called Fresh Cart. With a focus on simplicity, efficiency, and an exceptional user experience, Fresh Cart aims to revolutionize the way users shop for their favorite products.
-It is a React JS-powered project that allows users to shop for products in an intuitive and user-friendly interface. The project harnesses the power of Context API for efficient state management, enabling users to browse through the home page, filter by categories, search for products, add items to cart, and more - all in real-time.
- *<a href="https://fresh-cart-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
+It is a React JS-powered project that allows users to shop for products in an intuitive and user-friendly interface. The project harnesses the power of Context API for efficient state management, enabling users to browse through the home page, filter by categories, search for products, add items to the cart, and more - all in real time.
 
+<!--
+ *<a href="https://fresh-cart-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
+-->
 
 
 <br>
@@ -22,7 +24,7 @@ It is a React JS-powered project that allows users to shop for products in an in
 
 - <strong>Shopping Cart:</strong> Users can add products to their cart, review the items, adjust quantities, and proceed to checkout.
 
-- <strong>Responsive Design:</strong> The front-end is designed to provide a consistent and enjoyable experience across various devices, including desktops, tablets, and smartphones.
+- <strong>Responsive Design:</strong> The front end is designed to provide a consistent and enjoyable experience across various devices, including desktops, tablets, and smartphones.
 
 - <strong>Checkout Process:</strong> Users can securely complete their purchases by providing shipping information, selecting payment methods, and reviewing order summaries.
 
